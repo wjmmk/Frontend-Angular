@@ -1,0 +1,29 @@
+<div *ngFor="let user of users" class="card card-body mb-2">
+  <div class="row">
+    <div class="col-md-10">
+      <ul>
+        <li>
+          id: {{user._id}}
+        </li>
+        <li>
+          username: {{user.username}}
+        </li>
+        <li>
+          email: {{user.email}}
+        </li>
+        <li>
+          password: {{user.password}}
+        </li>
+      </ul>
+      <button (click)="deleteUser(user._id)" class="btn btn-danger">
+        Delete
+      </button>
+      <button [routerLink]="['/user/edit', user._id]" class="btn btn-secondary">
+        Edit
+      </button>
+    </div>
+    <div class="col-md-2">
+      <!--<img [src]="product.imageURL" class="card-img"> -->
+    </div>
+  </div>
+</div>
