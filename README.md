@@ -9,14 +9,14 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Demo of the app
 
-Products are listed
+### Products are listed
 ![](https://github.com/wjmmk/Frontend-Angular/blob/master/src/assets/Angular%20-%20NestJS.jpg)
 
 ##
-Users are listed
+### Users are listed
 ![](https://github.com/wjmmk/Frontend-Angular/blob/master/src/assets/Angular%20-%20NestJS%202.jpg)
 
 ## 
-A form is displayed
+### form is displayed
 ![](https://github.com/wjmmk/Frontend-Angular/blob/master/src/assets/Angular%20-%20NestJS%203.jpg)
 
