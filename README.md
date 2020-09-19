@@ -9,7 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Demo of the app
 
-![](https://github.com/wjmmk/Frontend-Angular/tree/master/src/assets/Angular - NestJS 2.jpg)
+![](https://github.com/wjmmk/Frontend-Angular/blob/master/src/assets/Angular%20-%20NestJS.jpg)
 
 ##
 
