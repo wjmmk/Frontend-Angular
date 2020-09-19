@@ -13,9 +13,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ##
 
-![](https://github.com/wjmmk/RickAndMortyApp/blob/master/src/assets/Interface.jpg)
+![](https://github.com/wjmmk/Frontend-Angular/blob/master/src/assets/Angular%20-%20NestJS%202.jpg)
 
 ## 
 
-![](https://github.com/wjmmk/RickAndMortyApp/blob/master/src/assets/Interface.jpg)
+![](https://github.com/wjmmk/Frontend-Angular/blob/master/src/assets/Angular%20-%20NestJS%203.jpg)
 
